@@ -1,0 +1,21 @@
+#main{
+    background-color: lightgray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#title{
+    text-align: center;
+}
+#desc-title{
+    text-align: center;
+}
+img{
+    width: 100%;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+#fig-caption{
+    text-align: center;
+    font-size: 15px;
+    text-justify: auto;
+}
